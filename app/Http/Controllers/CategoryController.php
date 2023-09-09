@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\StoreCategoriesRequest;
-use App\Http\Requests\UpdateCategoriesRequest;
-use App\Models\Categories;
+use App\Http\Requests\StoreCategoryRequest;
+use App\Http\Requests\UpdateCategoryRequest;
+use App\Models\Category;
 
-class CategoriesController extends Controller
+class CategoryController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -27,7 +27,7 @@ class CategoriesController extends Controller
     /**
      * Store a newly created resource in storage.
      */
-    public function store(StoreCategoriesRequest $request)
+    public function store(StoreCategoryRequest $request)
     {
         //
     }
@@ -35,7 +35,7 @@ class CategoriesController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Categories $categories)
+    public function show(Category $category)
     {
         //
     }
@@ -43,7 +43,7 @@ class CategoriesController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Categories $categories)
+    public function edit(Category $category)
     {
         //
     }
@@ -51,7 +51,7 @@ class CategoriesController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(UpdateCategoriesRequest $request, Categories $categories)
+    public function update(UpdateCategoryRequest $request, Category $category)
     {
         //
     }
@@ -59,7 +59,7 @@ class CategoriesController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Categories $categories)
+    public function destroy(Category $category)
     {
         //
     }

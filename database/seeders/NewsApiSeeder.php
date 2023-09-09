@@ -11,9 +11,9 @@ class NewsApiSeeder extends AppSeeder
 {
     private $file_names = [
         'news_api_business.json',
-        // 'news_api_politics.json',
-        // 'news_api_science.json',
-        // 'news_api_technology.json',
+        'news_api_politics.json',
+        'news_api_science.json',
+        'news_api_technology.json',
     ];
 
     /**

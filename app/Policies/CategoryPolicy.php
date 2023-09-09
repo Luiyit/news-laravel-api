@@ -6,7 +6,7 @@ use App\Models\Categories;
 use App\Models\User;
 use Illuminate\Auth\Access\Response;
 
-class CategoriesPolicy
+class CategoryPolicy
 {
     /**
      * Determine whether the user can view any models.

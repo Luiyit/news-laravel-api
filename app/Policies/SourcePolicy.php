@@ -6,7 +6,7 @@ use App\Models\Sources;
 use App\Models\User;
 use Illuminate\Auth\Access\Response;
 
-class SourcesPolicy
+class SourcePolicy
 {
     /**
      * Determine whether the user can view any models.
