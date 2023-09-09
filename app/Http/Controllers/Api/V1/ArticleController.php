@@ -7,79 +7,48 @@ use Illuminate\Http\Request;
 use App\Http\Requests\StoreArticleRequest;
 use App\Http\Requests\UpdateArticleRequest;
 use App\Models\Article;
+use App\Http\Resources\ArticleResource;
 
 class ArticleController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Retrieve a listing of articles.
      */
-    public function index()
+    public function index(Request $request)
     {
-        return ["name"];
+        $query = Article::query();
+
+        // Search by title
+        if ($request->has('q')) {
+            $q = $request->input('q');
+            $query->whereRaw("LOWER(title) like %", '%' . strtolower($q) . '%');
+        }
+
+        // Search by source
+        if ($request->has('source_id')) {
+            $query->whereIn('source_id', $request->input('source_id'));
+        }
+
+        // Search by category
+        if ($request->has('category_id')) {
+            $query->whereIn('category_id', $request->input('category_id'));
+        }
+
+        // Load relationships
+        $query->with('category', 'source');
+
+        // Paginate
+        $articles = $query->paginate(12);
+
+        // Send response
+        return ArticleResource::collection($articles);
     }
 
     /**
-     * Show the form for creating a new resource.
-     */
-    public function create()
-    {
-        //
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(StoreArticleRequest $request)
-    {
-        //
-    }
-
-    /**
-     * Display the specified resource.
+     * Retrieve the article.
      */
     public function show(Article $article)
     {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(Article $article)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(UpdateArticleRequest $request, Article $article)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(Article $article)
-    {
-        //
+        return ArticleResource::make($article);
     }
 }
-
-
-// <?php
-
-// namespace App\Http\Controllers\Api\V1;
-// use App\Http\Controllers\Controller;
-
-// class ArticleController extends Controller
-// {
-//     /**
-//      * Display a listing of the resource.
-//      */
-//     public function index()
-//     {
-//         return [];
-//     }
-// }

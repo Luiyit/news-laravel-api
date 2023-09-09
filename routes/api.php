@@ -1,6 +1,9 @@
 <?php
 
 use App\Http\Controllers\Api\V1\ArticleController;
+use App\Http\Controllers\Api\V1\CategoryController;
+use App\Http\Controllers\Api\V1\SourceController;
+use App\Http\Controllers\Api\V1\AuthController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -15,10 +18,24 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::prefix('v1')->group(function(){
-    Route::apiResource('/articles', ArticleController::class);
+
+    Route::apiResource('/categories', CategoryController::class)->only(['index', 'show']);
+    Route::apiResource('/sources', SourceController::class)->only(['index', 'show']);
+    Route::apiResource('/articles', ArticleController::class)->only(['index', 'show']);
+
+    Route::group([
+        'middleware' => 'api',
+        'prefix' => 'auth'
+    ], function ($router) {
+        Route::post('login', [AuthController::class, 'login']);
+        Route::post('logout', [AuthController::class, 'logout']);
+        Route::post('refresh', [AuthController::class, 'refresh']);
+        Route::post('me', [AuthController::class, 'me']);
+    });
+
+    Route::middleware('auth:api')->group(function () {
+
+    });
 });
 
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
-});
