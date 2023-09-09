@@ -1,0 +1,210 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "category": "Business",
+    "articles": [
+        {
+            "source": { "id": null, "name": "Investor's Business Daily" },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Falls On Surprise Jobless Claims; Apple Dives On Expanded China Ban - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobless-claims-apple-stock-dives-china-ban/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-07T14:29:00Z",
+            "content": null
+        },
+        {
+            "source": { "id": "reuters", "name": "Reuters" },
+            "author": "Reuters",
+            "title": "Smurfit Kappa in talks with WestRock to create paper and packaging giant - Reuters",
+            "description": "Smurfit Kappa is in discussions to merge with U.S. rival WestRock <a href=\"https://www.reuters.com/markets/companies/WRK.N\" target=\"_blank\">(WRK.N)</a>, the Irish firm said on Thursday, in a tie-up of two of the world's largest paper and packaging producers.",
+            "url": "https://www.reuters.com/markets/deals/paper-company-westrock-nears-deal-merge-with-smurfit-kappa-wsj-2023-09-06/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=156",
+            "publishedAt": "2023-09-07T14:03:07Z",
+            "content": "DUBLIN, Sept 7 (Reuters) - Smurfit Kappa is in discussions to merge with U.S. rival WestRock (WRK.N), the Irish firm said on Thursday, in a tie-up of two of the world's largest paper and packaging pr… [+3163 chars]"
+        },
+        {
+            "source": { "id": "cnn", "name": "CNN" },
+            "author": "Jordan Valinsky",
+            "title": "Gatorade’s newest drink: Water - CNN",
+            "description": "Gatorade’s newest beverage doesn’t look or taste like its other neon-bright drinks. In fact, it’s just water.",
+            "url": "https://www.cnn.com/2023/09/07/business/gatorade-water-launch/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230905105312-gatorade-water.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-07T14:03:00Z",
+            "content": "Gatorades newest beverage doesnt look or taste like its other neon-bright drinks. In fact, its just water.\r\nThe PepsiCo-owned brand, best known for its fruit-flavored sports drinks like Fierce Grape … [+4745 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CNBC" },
+            "author": "Samantha Subin, Brian Evans",
+            "title": "U.S. stock markets: Live updates - CNBC",
+            "description": "The S&P 500 and Nasdaq Composite fell Thursday as renewed concern swirled on Wall Street over the course of the Federal Reserve's interest rate policy.",
+            "url": "https://www.cnbc.com/2023/09/06/stock-futures-are-little-changed-wall-street-shifts-focus-back-to-path-of-interest-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107265698-1688156688275-Vesta-TF-Photo-AJ-20230630-0029-PRESS-3.jpg?v=1694093603&w=1920&h=1080",
+            "publishedAt": "2023-09-07T13:45:00Z",
+            "content": "The S&amp;P 500 and Nasdaq Composite fell Thursday as renewed concern swirled on Wall Street over the Federal Reserve's interest rate policy path, and whether policymakers will enact another hike thi… [+2035 chars]"
+        },
+        {
+            "source": { "id": "reuters", "name": "Reuters" },
+            "author": "Ahmad Ghaddar",
+            "title": "Oil falls as concerns about China outweigh extended cuts - Reuters",
+            "description": "Oil prices eased on Thursday as an uncertain economic outlook for China outweighed expectations of tighter supplies from extended supply cuts in Saudi Arabia and Russia.",
+            "url": "https://www.reuters.com/markets/commodities/oil-prices-edge-up-anticipated-us-crude-stock-draw-2023-09-07/",
+            "urlToImage": "https://www.reuters.com/resizer/8taSwj3y-bOWa8DxxIOcLQGPo8g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5L7A5E5CCBIGJBV4BXGODRBF3Q.jpg",
+            "publishedAt": "2023-09-07T13:31:00Z",
+            "content": "LONDON, Sept 7 (Reuters) - Oil prices eased on Thursday as an uncertain economic outlook for China outweighed expectations of tighter supplies from extended supply cuts in Saudi Arabia and Russia.\r\nB… [+1715 chars]"
+        },
+        {
+            "source": { "id": null, "name": "YouTube" },
+            "author": null,
+            "title": "Jobless claims side while labor costs rose more than expected - CNBC Television",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=ky_pqlpupTg",
+            "urlToImage": null,
+            "publishedAt": "2023-09-07T13:21:58Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": { "id": "google-news", "name": "Google News" },
+            "author": "Barron's",
+            "title": "Alibaba Stock Falls. More Economic Data From China Weighs on Shares. - Barron's",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL2FsaWJhYmEtc3RvY2stcHJpY2UtaG9uZy1rb25nLWNoaW5hLWltcG9ydHMtZDNhYzhjNWPSAVlodHRwczovL3d3dy5iYXJyb25zLmNvbS9hbXAvYXJ0aWNsZXMvYWxpYmFiYS1zdG9jay1wcmljZS1ob25nLWtvbmctY2hpbmEtaW1wb3J0cy1kM2FjOGM1Yw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-09-07T13:15:00Z",
+            "content": null
+        },
+        {
+            "source": { "id": null, "name": "Barron's" },
+            "author": "Jack Denton",
+            "title": "Bitcoin Price Hovers Below $26,000. Investors Are Losing Interest. - Barron's",
+            "description": "Digital assets continue to exhibit low levels of volatility as traders remain on the sidelines. It's not good for crypto.",
+            "url": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-markets-today-4c1993b",
+            "urlToImage": "https://images.barrons.com/im-806909/social",
+            "publishedAt": "2023-09-07T13:10:00Z",
+            "content": "Bitcoin \r\nand other cryptocurrencies were little changed on Thursday as digital asset markets continued to exhibit low volatilitya symptom of investors waning interest in wading into crypto markets.T… [+1513 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Barron's" },
+            "author": "Eric J. Savitz",
+            "title": "C3.ai Stock Plummets After Earnings. The Company Withdrew Its Profit Forecast. - Barron's",
+            "description": "While July quarter results topped estimates, the AI company sees mounting losses ahead. It's \"crazy not to invest in this market,\" CEO Tom Siebel says.",
+            "url": "https://www.barrons.com/articles/c3ai-earnings-stock-price-59ed9fe8",
+            "urlToImage": "https://images.barrons.com/im-37264331/social",
+            "publishedAt": "2023-09-07T12:48:00Z",
+            "content": "C3.ai\r\nshares were down sharply Thursday morning after the AI software company posted solid results for its latest quarter, while forecasting a larger full-year loss than previously expected. The com… [+3374 chars]"
+        },
+        {
+            "source": { "id": "usa-today", "name": "USA Today" },
+            "author": "USA TODAY",
+            "title": "Kroger, Albertsons to sell over 400 stores to C&S Wholesale: Report - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/money/shopping/2023/09/07/kroger-albertsons-merger-sell-stores/70783518007/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-07T12:26:02Z",
+            "content": null
+        },
+        {
+            "source": { "id": null, "name": "CNBC" },
+            "author": "Seema Mody",
+            "title": "Tesla to install charging stations at 2,000 Hiltons in North America - CNBC",
+            "description": "The No. 2 request from business travelers, according to Hilton's chief brand officer, is electric vehicle charging stations.",
+            "url": "https://www.cnbc.com/2023/09/07/tesla-to-install-charging-stations-at-2000-hiltons-in-north-america.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107287679-1692210750969-gettyimages-1602774701-AA_16082023_1310098.jpeg?v=1694088001&w=1920&h=1080",
+            "publishedAt": "2023-09-07T12:00:01Z",
+            "content": "Tesla plans to install 20,000 electric vehicle charging stations across 2,000 Hilton properties in the U.S., Mexico and Canada beginning next year, the companies said Thursday.\r\nFor Tesla, the buildo… [+1779 chars]"
+        },
+        {
+            "source": { "id": "cbs-news", "name": "CBS News" },
+            "author": "Megan Cerullo",
+            "title": "Do COVID-19 tests still work after they expire? Here's how to tell. - CBS News",
+            "description": "The FDA has lengthened the shelf lives of some COVID-19 tests that still deliver accurate results past their printed expiration dates.",
+            "url": "https://www.cbsnews.com/news/covid-test-expiration-dates-fda-extension-accurate/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/06/a50e728f-a4dc-44be-9025-f0a2b8d22b14/thumbnail/1200x630/5ca062d37fbcdc3e2cd28ce5c58d7709/gettyimages-1316289788.jpg?v=265cec9d5f00fdfd8db4b3ff216e4bd4",
+            "publishedAt": "2023-09-07T12:00:00Z",
+            "content": "With COVID-19 cases on the rise again in the U.S., Americans are reviving a familiar precautionary measure: Screening for the virus using rapid at-home tests.\r\nMany people still have kits the governm… [+3036 chars]"
+        },
+        {
+            "source": { "id": null, "name": "POLITICO.eu" },
+            "author": "Clothilde Goujard",
+            "title": "Your car wants to know about your sex life - POLITICO Europe",
+            "description": "Cars are increasingly filming, recording and tracking drivers and passengers, new report finds.",
+            "url": "https://www.politico.eu/article/car-manufacturer-data-privacy-driver-passenger-sexual-activity-report/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/07/GettyImages-651291020-scaled.jpg",
+            "publishedAt": "2023-09-07T11:40:00Z",
+            "content": "Press play to listen to this article\r\nVoiced by artificial intelligence.\r\nCar manufacturers are collecting troves of data on drivers and passengers some even tracking drivers' sexual activity accordi… [+3593 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Stella Yifan Xie",
+            "title": "China Exports Fall for a Fourth Month as Once-Reliable Growth Engine Sputters - The Wall Street Journal",
+            "description": "Property sector’s downturn has pushed imports to their 11th month of declines in the past year",
+            "url": "https://www.wsj.com/world/china/china-exports-fall-for-fourth-month-as-once-reliable-growth-engine-sputters-1ab9d689",
+            "urlToImage": "https://images.wsj.net/im-847844/social",
+            "publishedAt": "2023-09-07T11:36:00Z",
+            "content": null
+        },
+        {
+            "source": { "id": "financial-times", "name": "Financial Times" },
+            "author": "Martin Arnold",
+            "title": "Germany's industrial gloom deepens as production falls - Financial Times",
+            "description": "Sharp decline in carmaking drives third consecutive drop, as second-quarter eurozone growth is revised down to 0.1%",
+            "url": "https://www.ft.com/content/7ed06bf8-fe60-4127-b5fe-c8181a0ec8cb",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3563693-071e-4d91-b603-f04c385d983e.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-09-07T11:24:12Z",
+            "content": "A sharp decline in carmaking fuelled a deepening downturn in German industry as production fell for the third consecutive month in July, intensifying pressure on the government to do more to lift the… [+4163 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Forbes" },
+            "author": "Alan Ohnsman",
+            "title": "This Company Is Turning Waste Into Clean Hydrogen. And Electricity. And Water - Forbes",
+            "description": "FuelCell Energy and Toyota have a first-of-its-kind, $35 million clean energy system in Southern California that cuts carbon pollution and makes fuel for hydrogen trucks and cars.",
+            "url": "https://www.forbes.com/sites/alanohnsman/2023/09/06/this-company-is-turning-waste-into-clean-hydrogen-and-electricity-and-water/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f919ae037b375d7ff9e2c9/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-09-07T11:00:00Z",
+            "content": "A \"tri-gen\" power system built for Toyota's Long Beach, California, port facility is now fully operational and generating clean hydrogen, electricity and water the automaker is using. \r\nToyota, FuelC… [+3462 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CNBC" },
+            "author": "Silvia Amaro",
+            "title": "EU's crackdown on Apple, Meta and others is to avoid forced breakups, top official says - CNBC",
+            "description": "Big Tech is facing tighter scrutiny in the European Union, but officials want to avoid forcing them to break up parts of the business.",
+            "url": "https://www.cnbc.com/2023/09/07/eus-crackdown-on-apple-meta-and-others-is-to-avoid-forced-breakups-top-official-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107295692-1693916253497-gettyimages-1258713111-Press_Point_On_Cybersecurity_Of_5G_Networks.jpeg?v=1694082169&w=1920&h=1080",
+            "publishedAt": "2023-09-07T10:22:49Z",
+            "content": "BRUSSELS U.S. tech giants are facing stricter rules in Europe with more regulation announced this week, but one senior European Union official told CNBC the aim is to avoid forced breakups of large b… [+2761 chars]"
+        },
+        {
+            "source": { "id": "axios", "name": "Axios" },
+            "author": "Axios",
+            "title": "Exclusive: Bill Daley to leave Wells Fargo - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/09/07/bill-daley-leaving-wells-fargo",
+            "urlToImage": null,
+            "publishedAt": "2023-09-07T10:14:09Z",
+            "content": null
+        },
+        {
+            "source": { "id": "reuters", "name": "Reuters" },
+            "author": "Reuters",
+            "title": "SAP buys software management company LeanIX - Reuters",
+            "description": "German business software maker SAP <a href=\"https://www.reuters.com/markets/companies/SAPG.DE\" target=\"_blank\">(SAPG.DE)</a> on Thursday said it has bought software management company LeanIX from investors to boost its business transformation portfolio.",
+            "url": "https://www.reuters.com/markets/deals/sap-buys-software-management-company-leanix-2023-09-07/",
+            "urlToImage": "https://www.reuters.com/resizer/IFw-6HSrjQSayF2hs7XrvCtI9sk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6G6IQB2COFOW3P3AXAKZH73FLE.jpg",
+            "publishedAt": "2023-09-07T10:14:00Z",
+            "content": "STOCKHOLM, Sept 7 (Reuters) - German business software maker SAP (SAPG.DE) on Thursday said it has bought software management company LeanIX from investors to boost its business transformation portfo… [+443 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CNBC" },
+            "author": "Sharon Epperson, Stephanie Dhue",
+            "title": "Is financial stress hurting retirement savings? 4 in 10 workers with a 401(k) don't contribute, CNBC survey finds - CNBC",
+            "description": "A CNBC Your Money Survey found 74% of Americans feel financial stress, up from 70% in April. Financial strain makes it hard for many to fund a retirement plan.",
+            "url": "https://www.cnbc.com/2023/09/07/4-in-10-workers-with-a-401k-dont-contribute-to-plan-cnbc-survey.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107296350-1694006700320-gettyimages-186366263-bld118911.jpeg?v=1694080802&w=1920&h=1080",
+            "publishedAt": "2023-09-07T10:00:02Z",
+            "content": "Most Americans will have to rely on their savings to fund their retirement, but financial stress makes it hard for many workers to save.\r\nA new CNBC Your Money Survey conducted by SurveyMonkey found … [+4818 chars]"
+        }
+    ]
+}

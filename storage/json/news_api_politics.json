@@ -1,0 +1,210 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "category": "Politics",
+    "articles": [
+        {
+            "source": { "id": "cnn", "name": "CNN" },
+            "author": "Jordan Valinsky",
+            "title": "Gatorade’s newest drink: Water - CNN",
+            "description": "Gatorade’s newest beverage doesn’t look or taste like its other neon-bright drinks. In fact, it’s just water.",
+            "url": "https://www.cnn.com/2023/09/07/business/gatorade-water-launch/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230905105312-gatorade-water.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-07T14:03:00Z",
+            "content": "Gatorades newest beverage doesnt look or taste like its other neon-bright drinks. In fact, its just water.\r\nThe PepsiCo-owned brand, best known for its fruit-flavored sports drinks like Fierce Grape … [+4745 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CNBC" },
+            "author": "Samantha Subin, Brian Evans",
+            "title": "U.S. stock markets: Live updates - CNBC",
+            "description": "The S&P 500 and Nasdaq Composite fell Thursday as renewed concern swirled on Wall Street over the course of the Federal Reserve's interest rate policy.",
+            "url": "https://www.cnbc.com/2023/09/06/stock-futures-are-little-changed-wall-street-shifts-focus-back-to-path-of-interest-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107265698-1688156688275-Vesta-TF-Photo-AJ-20230630-0029-PRESS-3.jpg?v=1694093603&w=1920&h=1080",
+            "publishedAt": "2023-09-07T13:45:00Z",
+            "content": "The S&amp;P 500 and Nasdaq Composite fell Thursday as renewed concern swirled on Wall Street over the Federal Reserve's interest rate policy path, and whether policymakers will enact another hike thi… [+2035 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CBS Sports" },
+            "author": "",
+            "title": "Prisco's Week 1 NFL picks: Bills spoil Aaron Rodgers' debut with Jets; Steelers, Packers pull off upsets - CBS Sports",
+            "description": "Pete Prisco reveals all his Week 1 picks, including the Browns shocking Joe Burrow's Bengals",
+            "url": "https://www.cbssports.com/nfl/news/priscos-week-1-nfl-picks-bills-spoil-aaron-rodgers-debut-with-jets-steelers-packers-pull-off-upsets/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/06/4bf83eba-6e4d-4abf-8093-3556b6c87893/thumbnail/1200x675/dbf31d1f7610f312972f2040a531c197/gettyimages-1640887930.jpg",
+            "publishedAt": "2023-09-07T13:29:53Z",
+            "content": "Picking Week 1 NFL games is always a tough thing to do.\r\nBut we all do it. We try anyway.\r\nThe uncertainty of rookie quarterbacks -- three will start on opening day -- coupled with young quarterbacks… [+7579 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Dexerto" },
+            "author": "Noelle Corbett",
+            "title": "Payday 3 preview: Starbreeze sets up the next decade of Payday - Dexerto",
+            "description": "Dexerto was able to go hands-on with Payday 3. Here's what we thought of Starbreeze Studios' sequel to its long-running FPS heist hit.",
+            "url": "https://www.dexerto.com/gaming/payday-3-preview-starbreeze-sets-up-the-next-decade-of-payday-2280347/",
+            "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/09/05/payday-3-keyart.jpg",
+            "publishedAt": "2023-09-07T13:03:27Z",
+            "content": "Almost exactly a decade after releasing its previous FPS heist hit, Starbreeze Studios is back with Payday 3 which Dexerto was able to go hands-on with.\r\nPayday 3 may not be the biggest or best-known… [+4480 chars]"
+        },
+        {
+            "source": { "id": null, "name": "XDA Developers" },
+            "author": "Arif Bacchus",
+            "title": "Google gives Chrome a beautiful Material You redesign for its 15th birthday - XDA Developers",
+            "description": "Google Chrome is turning 15 today and the browser is getting a new look and new features for its big day",
+            "url": "https://www.xda-developers.com/chrome-15th-birthday-material-you-redesign/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/chrome_15th-birthday_blog-header_2880x1200_-v2_1.png",
+            "publishedAt": "2023-09-07T13:00:00Z",
+            "content": "Key Takeaways\r\n<ul><li> Google Chrome is getting a new look inspired by the Material You design language, featuring fresh color palettes and improved legibility of icons. </li><li> The Chrome Web Sto… [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Marlene Cimons",
+            "title": "How covid experts are approaching this fall’s expected rise in infections - The Washington Post",
+            "description": "All of them want the coronavirus booster as soon as possible. Beyond that, they’re tracking case numbers, wearing masks in planes and eating outdoors whenever it’s an option.",
+            "url": "https://www.washingtonpost.com/health/2023/09/07/covid-experts-masking-travel-restaurants/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4BZKVOPLRZHINNULP6YASEWCSM.jpg&w=1440",
+            "publishedAt": "2023-09-07T12:36:44Z",
+            "content": "Comment on this story\r\nComment\r\nIn the past year, many Americans have stopped thinking about covid-19, ditched their masks, skipped the latest coronavirus boosters and returned to living more normal … [+16492 chars]"
+        },
+        {
+            "source": { "id": "cnn", "name": "CNN" },
+            "author": "Mary Gilbert",
+            "title": "Hurricane Lee forecast to become strongest Atlantic storm so far this year - CNN",
+            "description": "Hurricane Lee strengthened into a Category 2 hurricane Thursday morning and will only further intensify into a Category 5 storm, days before a precarious and uncertain northward track that much of the US East Coast will have to watch closely.",
+            "url": "https://www.cnn.com/2023/09/07/weather/hurricane-lee-path-atlantic-caribbean-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907073519-visible-satellite-lee-thursday-am-090723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-07T12:36:00Z",
+            "content": "Hurricane Lee strengthened into a Category 2 hurricane Thursday morning and will only further intensify into a Category 5 storm, days before a precarious and uncertain northward track that much of th… [+1546 chars]"
+        },
+        {
+            "source": { "id": null, "name": "YouTube" },
+            "author": null,
+            "title": "Can a $599 camera bring Polaroid back? - The Verge",
+            "description": "The Polaroid I-2 is a $600 instant film camera that allows users to manually dial in settings. It took five years to develop and has an all new f/8 to f/64 l...",
+            "url": "https://www.youtube.com/watch?v=3sooI3ZFw_Q",
+            "urlToImage": "https://i.ytimg.com/vi/3sooI3ZFw_Q/maxresdefault.jpg",
+            "publishedAt": "2023-09-07T12:30:02Z",
+            "content": null
+        },
+        {
+            "source": { "id": "nbc-news", "name": "NBC News" },
+            "author": "Phil Helsel, Patrick Smith, Kelly Cobiella, Liam Woods",
+            "title": "Turkey cave rescue: Race to save ill American Mark Dickey - NBC News",
+            "description": "More than 150 rescuers are racing to free an American stranded deep inside a cave in Turkey after he became ill.",
+            "url": "https://www.nbcnews.com/news/us-news/turkey-rescuers-effort-retrieve-ill-american-caver-mark-dickey-rcna103792",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230906-Mark-Dickey-facebook-ac-711p-08d373.jpg",
+            "publishedAt": "2023-09-07T12:24:00Z",
+            "content": "More than 150 rescuers are racing to free an American stranded deep inside a cave in Turkey after he became ill.\r\nMark Dickey, 40, is suffering from gastrointestinal bleeding but he has been stuck se… [+2963 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Billboard" },
+            "author": "Paul Grein",
+            "title": "Lainey Wilson Leads 2023 CMA Awards Nominations – And Makes History (Full List) - Billboard",
+            "description": "First-time nominee Jelly Roll is the runner-up to Wilson’s nine nominations, with five nods.",
+            "url": "https://www.billboard.com/music/awards/2023-cma-awards-nominations-full-list-lainey-wilson-1235407931/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2023/09/Lainey-Wilson-cma-fest-2023-day-2-a-billboard-1548.jpg?w=1024",
+            "publishedAt": "2023-09-07T12:05:23Z",
+            "content": "Lainey Wilson is the top nominee for the 2023 CMA Awards, with nine nods. Wilson was also the top nominee last year, with six nods. Wilson is the first artist in CMA history to top the nominations li… [+11616 chars]"
+        },
+        {
+            "source": { "id": "cnn", "name": "CNN" },
+            "author": "Thomas Schlachter",
+            "title": "How to watch the NFL season opener between the Kansas City Chiefs and the Detroit Lions - CNN",
+            "description": "After an almost six-month break, trades galore and an off-season full of drama the National Football League (NFL) is back for season No. 104.",
+            "url": "https://www.cnn.com/2023/09/07/sport/nfl-season-opener-lions-chiefs-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904115700-03-detroit-lions-kansas-city-chiefs-nfl-spt-intl.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-07T11:28:00Z",
+            "content": "After an almost six-month break, trades galore and an off-season full of drama, the National Football League (NFL) is back for season No. 104.\r\nAs is now customary, the annual curtain raiser sees the… [+4002 chars]"
+        },
+        {
+            "source": { "id": null, "name": "NPR" },
+            "author": "H.J. Mai",
+            "title": "Sudanese Refugee Camps In Chad - NPR",
+            "description": "As the refugee crisis in Chad continues to grow, international attention on the situation remains limited in the face of numerous other global humanitarian challenges.",
+            "url": "https://www.npr.org/2023/09/07/1197992318/sudanese-refugees-in-chad-scramble-to-survive",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/06/img_2744_wide-c5770fa091550d7bb3bf752f875ce60b91cc4e80-s1400-c100.jpg",
+            "publishedAt": "2023-09-07T11:09:00Z",
+            "content": "A team from NPR's Morning Edition visited makeshift refugee homes in Camp Adré, Chad, near the border with Sudan.\r\nHJ Mai/NPR\r\nADRE , Chad The roads are unpaved. Children are playing with old tires. … [+3498 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Forbes" },
+            "author": "Alan Ohnsman",
+            "title": "This Company Is Turning Waste Into Clean Hydrogen. And Electricity. And Water - Forbes",
+            "description": "FuelCell Energy and Toyota have a first-of-its-kind, $35 million clean energy system in Southern California that cuts carbon pollution and makes fuel for hydrogen trucks and cars.",
+            "url": "https://www.forbes.com/sites/alanohnsman/2023/09/06/this-company-is-turning-waste-into-clean-hydrogen-and-electricity-and-water/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f919ae037b375d7ff9e2c9/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-09-07T11:00:00Z",
+            "content": "A \"tri-gen\" power system built for Toyota's Long Beach, California, port facility is now fully operational and generating clean hydrogen, electricity and water the automaker is using. \r\nToyota, FuelC… [+3462 chars]"
+        },
+        {
+            "source": { "id": null, "name": "CBS Sports" },
+            "author": "",
+            "title": "Ranking top 10 NFL breakout candidates for 2023: Packers' Jordan Love, Bills' James Cook set for big leaps - CBS Sports",
+            "description": "These players are poised to make waves this season",
+            "url": "https://www.cbssports.com/nfl/news/ranking-top-10-nfl-breakout-candidates-for-2023-packers-jordan-love-bills-james-cook-set-for-big-leaps/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/10/3002ebff-ec31-47e3-aa61-b80ca84fef3f/thumbnail/1200x675/e0702dfb3e21ec248d39abbd0a615177/getty-jordan-love-packers.jpg",
+            "publishedAt": "2023-09-07T11:00:00Z",
+            "content": "The real NFL games are upon us. After months and months of anticipation, the 2023 season kicks off Thursday night, giving all 32 teams a chance to rewrite -- or build upon -- their stories in the hun… [+6216 chars]"
+        },
+        {
+            "source": { "id": null, "name": "TODAY" },
+            "author": "Drew Weisholtz",
+            "title": "Joe Jonas, Sophie Turner 'Mutually Decided to Amicably End' Marriage - TODAY",
+            "description": "Joe Jonas and Sophie Turner have spoken out on Instagram in the wake of news that they are divorcing.",
+            "url": "https://www.today.com/popculture/joe-jonas-sophie-turner-divorce-statement-rcna103598",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-09/joe-jonas-sophie-turner-zz-230906-ad6f2e.jpg",
+            "publishedAt": "2023-09-07T10:57:00Z",
+            "content": "Joe Jonas and Sophie Turner have issued a joint statement in the wake of news that they are divorcing.\r\n\"After four years of wonderful marriage we have mutually decided to amicably end our marriage,\"… [+1171 chars]"
+        },
+        {
+            "source": { "id": "cnn", "name": "CNN" },
+            "author": "Rob Picheta, Teele Rebane, Olga Voitovych",
+            "title": "Ukraine drone attack causes explosion near Russian military HQ - CNN",
+            "description": "A drone attack caused an explosion near Russia’s military headquarters in the city of Rostov-on-Don on Thursday, as Kyiv continues a campaign of strategic aerial strikes in Russian territory.",
+            "url": "https://www.cnn.com/2023/09/07/europe/ukraine-russia-rostov-military-drone-strike-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907111529-rostov-drone-aftermath.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-07T10:51:00Z",
+            "content": "A drone attack caused an explosion near Russias military headquarters in the city of Rostov-on-Don on Thursday, as Kyiv continues a campaign of strategic aerial strikes in Russian territory.\r\nSocial … [+2857 chars]"
+        },
+        {
+            "source": { "id": "engadget", "name": "Engadget" },
+            "author": "Steve Dent",
+            "title": "Samsung adds a 4TB option to its high-speed 990 Pro SSDs - Engadget",
+            "description": "Samsung has unveiled a 4TB version of its 990 Pro NVMe PCIe 4.0 SSDs with an optional heatsink targeted at gamers and content creators.",
+            "url": "https://www.engadget.com/samsung-adds-a-4tb-option-to-its-high-speed-990-pro-ssds-104521791.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TtNLHxB_EpwdjfgNyTTTCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDc-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/21fc1bb0-4d65-11ee-becf-a42631710dbd",
+            "publishedAt": "2023-09-07T10:47:22Z",
+            "content": "Samsung has unveiled a 4TB version of its 990 Pro NVMe PCIe 4.0 SSDs with an optional heatsink targeted at gamers and content creators. The new model promises the \"fastest random read performance amo… [+1603 chars]"
+        },
+        {
+            "source": { "id": "usa-today", "name": "USA Today" },
+            "author": "Sudiksha Kochi, Michael Collins",
+            "title": "Biden, COVID and mask mandates are a timely test for the 2024 election. Here's what's at stake - USA TODAY",
+            "description": "A late-summer surge in COVID-19 cases has reignited the debate over mandatory face masks. How Biden responds could impact the 2024 election.",
+            "url": "https://www.usatoday.com/story/news/politics/2023/09/07/biden-covid-mask-mandates-2024/70771151007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/05/USAT/fbbfc315-3a7b-4df2-a4dc-70c816741a57-AP_Biden_Medal_of_Honor_1.jpg?crop=3533,1988,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-07T10:10:54Z",
+            "content": "WASHINGTON A late-summer surge in new COVID cases has meant the return of face masks in some parts of the country, reigniting a political battle that quickly became the centerpiece of a broader fight… [+8118 chars]"
+        },
+        {
+            "source": { "id": null, "name": "Pff.com" },
+            "author": "Nathan Jahnke",
+            "title": "NFL Week 1 fantasy football start ’em, sit ’em | Fantasy Football News, Rankings and Projections - Pro Football Focus",
+            "description": "Seattle Seahawks quarterback Geno Smith and New Orleans Saints running back Jamaal Williams are among the best starts for Week 1 of the 2023 NFL season.",
+            "url": "https://www.pff.com/news/fantasy-football-nfl-week-1-start-em-sit-em-2023",
+            "urlToImage": "https://media.pff.com/2023/09/Williams-Jamaal-Alamy-scaled.jpg?w=956&h=538",
+            "publishedAt": "2023-09-07T09:36:55Z",
+            "content": "Geno Smith should dominate the new Los Angeles Rams: Smith played well against the Rams last season, and now they dont have several of their once-great players.\r\n Take advantage of wide receiver inju… [+3088 chars]"
+        },
+        {
+            "source": { "id": null, "name": "New York Post" },
+            "author": "Nicholas McEntyre",
+            "title": "Mayor Adams warns migrant crisis will 'destroy' NYC, rips Biden for failing to help - New York Post ",
+            "description": "Mayor Eric Adams believes the raging migrant crisis will destroy New York City, saying he doesn’t see an end in sight as the city received over 110,000 migrants since last year.",
+            "url": "https://nypost.com/2023/09/07/nyc-mayor-adams-says-migrant-crisis-will-destroy-the-city-during-town-hall/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/eric-adams-nyc-migrants-destroy-comp-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-09-07T09:34:00Z",
+            "content": "Mayor Eric Adams warned that the raging migrant crisis will “destroy” New York City and tore into President Biden for ignoring his pleas for help, saying the White House has given “no support” for th… [+5049 chars]"
+        }
+    ]
+}
