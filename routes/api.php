@@ -5,6 +5,7 @@ use App\Http\Controllers\Api\V1\CategoryController;
 use App\Http\Controllers\Api\V1\SourceController;
 use App\Http\Controllers\Api\V1\AuthController;
 use App\Http\Controllers\Api\V1\UserController;
+use App\Http\Controllers\Api\V1\PreferenceController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -36,7 +37,7 @@ Route::prefix('v1')->group(function(){
     });
 
     Route::middleware('auth:api')->group(function () {
-
+        Route::apiResource('/preferences', PreferenceController::class)->only(['index', 'store', 'destroy']);;
     });
 });
 
