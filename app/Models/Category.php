@@ -17,4 +17,12 @@ class Category extends Model
     {
         return $this->hasMany(Article::class);
     }
+
+    /**
+     * Get all of the users that prefer it.
+     */
+    public function preferences()
+    {
+        return $this->morphMany(Preference::class, 'preferable');
+    }
 }
