@@ -21,6 +21,13 @@ use Illuminate\Support\Facades\Route;
 */
 Route::prefix('v1')->group(function(){
 
+    Route::get('/', function () {
+        return response()->json([
+            'app' => 'New Aggregator',
+            'version' => 'v1'
+        ]);
+    });
+
     Route::apiResource('/categories', CategoryController::class)->only(['index', 'show']);
     Route::apiResource('/sources', SourceController::class)->only(['index', 'show']);
     Route::apiResource('/articles', ArticleController::class)->only(['index', 'show']);
@@ -36,6 +43,7 @@ Route::prefix('v1')->group(function(){
         Route::post('me', [AuthController::class, 'me']);
     });
 
+    // https://jwt-auth.readthedocs.io/en/develop/auth-guard/
     Route::middleware('auth:api')->group(function () {
         Route::apiResource('/preferences', PreferenceController::class)->only(['index', 'store', 'destroy']);;
     });
