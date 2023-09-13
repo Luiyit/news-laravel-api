@@ -15,7 +15,18 @@ class CategoryController extends Controller
      */
     public function index()
     {
-        return CategoryResource::collection(Category::all());
+        $user = auth()->user();
+        $preferableIds = [];
+
+        if($user !== null){
+            $preferable = $user->preferences->where('preferable_type', 'App\\Models\\Category');
+            $preferableIds = $preferable->pluck('preferable_id')->toArray();
+        }
+
+        if(count($preferableIds) === 0)
+            return CategoryResource::collection(Category::all());
+
+        return CategoryResource::collection(Category::whereIn('id', $preferableIds)->get());
     }
 
     /**

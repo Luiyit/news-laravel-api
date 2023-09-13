@@ -15,7 +15,18 @@ class SourceController extends Controller
      */
     public function index()
     {
-        return SourceResource::collection(Source::all());
+        $user = auth()->user();
+        $preferableIds = [];
+
+        if($user !== null){
+            $preferable = $user->preferences->where('preferable_type', 'App\\Models\\Source');
+            $preferableIds = $preferable->pluck('preferable_id')->toArray();
+        }
+
+        if(count($preferableIds) === 0)
+            return SourceResource::collection(Source::all());
+
+        return SourceResource::collection(Source::whereIn('id', $preferableIds)->get());
     }
 
     /**

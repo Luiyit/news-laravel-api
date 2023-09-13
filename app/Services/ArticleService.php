@@ -48,7 +48,7 @@ class ArticleService
         $this->withQuery();
         $this->loadRelationships();
 
-        return $this->query->paginate(12);
+        return $this->paginate();
     }
 
     /**
@@ -70,9 +70,11 @@ class ArticleService
         if ($querySource)
             $this->query->whereIn('source_id', [$querySource] );
 
-        $userSourceIds = $this->userPreference('Source');
-        if(count($userSourceIds) > 0)
-            $this->query->whereIn('source_id', $userSourceIds);
+        else {
+            $userSourceIds = $this->userPreference('Source');
+            if(count($userSourceIds) > 0)
+                $this->query->whereIn('source_id', $userSourceIds);
+        }
     }
 
     /**
@@ -84,9 +86,11 @@ class ArticleService
         if ($queryCategory)
             $this->query->whereIn('category_id', [$queryCategory] );
 
-        $userCategoryIds = $this->userPreference('Category');
-        if(count($userCategoryIds) > 0)
-            $this->query->whereIn('category_id', $userCategoryIds);
+        else {
+            $userCategoryIds = $this->userPreference('Category');
+            if(count($userCategoryIds) > 0)
+                $this->query->orWhereIn('category_id', $userCategoryIds);
+        }
     }
 
     /**
@@ -109,5 +113,13 @@ class ArticleService
      */
     private function loadRelationships(){
         $this->query->with('category', 'source');
+    }
+
+    private function paginate()
+    {
+        $page = $this->request->input('page');
+        if (!$page) $page = $page = 1;
+
+        return $this->query->paginate(12, ['*'], 'page', $page);
     }
 }
